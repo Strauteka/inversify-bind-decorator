@@ -1,0 +1,20 @@
+{
+  "name": "inversify-bind-decorator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/entry.js",
+  "scripts": {
+    "dev": "tsc && node dist/entry.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jānis Strautiņš",
+  "license": "ISC",
+  "dependencies": {
+    "inversify": "^6.0.1",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.0",
+    "typescript": "^5.2.2"
+  }
+}
