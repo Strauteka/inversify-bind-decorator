@@ -65,8 +65,6 @@ export class Example1 extends InjectableClass {
 const tagClass = IOC.container.getTagged('Custom', 'Entry', true);
 const nameClass = IOC.container.getNamed('Custom', 'Test');
 
-IOC.container.load;
-
 console.log(
     'Finally, activation once',
     tagClass.constructor.name,
