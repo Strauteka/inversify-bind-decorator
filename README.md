@@ -1,8 +1,15 @@
+# Inversify
+Manipulation with multiInject, inject, tagged, named. Single decoration with wide usage.
 
-# Inversify manipulation with multiInject, inject, tagged, named 
+Require:
 
-install 
- * `npm install`
+- `NodeJS, npm`
+- `Linux system`
 
-run example
- * `npm run dev`
+Install
+
+- `npm install`
+
+Run example
+
+- `npm run dev`
